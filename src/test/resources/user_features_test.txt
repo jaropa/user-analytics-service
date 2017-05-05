@@ -1,0 +1,2 @@
+{"userId":"3", "hotelId":"19", "numberOfNights":8, "totalPriceInUSD":456}
+{"userId":"6", "hotelId":"40", "numberOfNights":8, "totalPriceInUSD":664}
